@@ -162,7 +162,7 @@ The Casting Agency API can be tested using **Postman** or **cURL**.
 **Testing using cURL**
 - Request: `curl https://mg-casting-agency.herokuapp.com/`
 - Response (200 OK):
-```
+```json
 This is the Casting Agency API
 ```
 
